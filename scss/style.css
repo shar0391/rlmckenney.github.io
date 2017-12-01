@@ -668,10 +668,10 @@ For Home Section*/ .home {
     margin-bottom: 20px;
 }
 .portfolio-1 {
-    background-image: url(../images/p1.png);
+    background-image: url(images/p1.png);
 }
 .portfolio-2 {
-    background-image:url(../images/p2.png);
+    background-image:url(images/p2.png);
 }
 /*For Contact Section*/
 
