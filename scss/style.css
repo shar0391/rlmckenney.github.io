@@ -452,7 +452,7 @@ textarea: {
 .btn-default:active,
 .btn-default:hover {
     background: #000000;
-    color: #fff;
+    color: #000000;
 }
 
 /*For Menu Section*/
@@ -465,6 +465,7 @@ For Home Section*/ .home {
     -o-background-size: cover;
     width: 100%;
     overflow: hidden;
+
 }
 
 .home-wrapper {
@@ -499,6 +500,7 @@ For Home Section*/ .home {
 .about-content h4 {
     font-size: 18px;
     font-family: 'robotobold';
+    color: #000000;
 }
 
 .about-content a {
